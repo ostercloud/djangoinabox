@@ -1,0 +1,10 @@
+README.rst
+setup.py
+helloLNUP/__init__.py
+helloLNUP/manage.py
+helloLNUP.egg-info/PKG-INFO
+helloLNUP.egg-info/SOURCES.txt
+helloLNUP.egg-info/dependency_links.txt
+helloLNUP.egg-info/not-zip-safe
+helloLNUP.egg-info/requires.txt
+helloLNUP.egg-info/top_level.txt
